@@ -1,7 +1,7 @@
 # Manajemen Database MongoDB
 
 **Nama :** Rizky Adiwijaya  
-**NIM :** 1234567890   
+**NIM :** D0222045   
 **Kelas :** Manajemen Database D 
 
 ## Deskripsi Repositori
