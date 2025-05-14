@@ -1,0 +1,8 @@
+{
+  "_id": {
+    "$oid": "68248b8bf39bdd97dbead58c"
+  },
+  "nama": "Rizky Adiwijaya",
+  "status": "Mahasiswa",
+  "hoby": "Desain Grafis"
+}
